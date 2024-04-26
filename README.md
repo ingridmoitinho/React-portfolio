@@ -1,8 +1,26 @@
-# React + Vite
+# Portfólio em React - Desafio Final VnW 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fiz esse projeto no Modulo 2 do curso de Desenvolvimento Web do Vai na Web.
 
-Currently, two official plugins are available:
+## Tecnologias 💻
+- HTML & CSS
+- ReactJS
+- styled-components
+- react-router-dom
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+Visual Studio Code
+```
+
+## Os requisitos que foram solicitados: ✅
+-   Deve ser simples, mas poderoso, com links para redes sociais, projetos realizados e tecnologias que domina. 👨‍💻
+-   Incluir pelo menos um exemplo de uso do react-router-dom. Demonstrar suas habilidades de navegação no mundo do React! ⚛️🛣️
+-   A página precisa ser totalmente responsiva 📱
+
+## Muito obrigada! 💙💻
+
+
+
+
+
+
