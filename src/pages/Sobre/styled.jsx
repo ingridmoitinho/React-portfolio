@@ -93,7 +93,7 @@ export const Texto = styled.div`
 
 export const Habilidades = styled.div`
   height: 20vh;
-  width: 22vw;
+  width: 23vw;
    
 h2 {
   text-align: center;
@@ -103,7 +103,7 @@ h2 {
  }
 
  img {
-  width: 4rem; 
+  width: 3.5rem; 
 }
 
 @media screen and (min-width: 300px) and (max-width: 768px) {
